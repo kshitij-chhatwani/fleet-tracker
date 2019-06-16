@@ -1,87 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91d37bc3-9098-4b6a-a5cc-efdd93dd6769" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/fleet-tracker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/alerts/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/readings/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/bootWar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/bootWar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/SwaggerConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/controller/AlertsController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/controller/ReadingsController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/controller/VehicleController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/entity/Alerts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/entity/Readings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/entity/Tires.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/entity/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/exception/BadRequestException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/exception/ResourceNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/repository/AlertsRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/repository/ReadingRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/repository/VehicleRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/service/AlertsService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/service/AlertsServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/service/ReadingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/service/ReadingServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/service/VehicleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/service/VehicleServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/controller/AlertsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/controller/ReadingsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/readings/src/main/java/ReadingsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/controller/VehicleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/entity/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/Alerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/entity/Readings.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/readings/src/main/java/Readings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/entity/Tires.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/entity/Tires.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/entity/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/exception/BadRequestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/exception/BadRequestException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/exception/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/exception/ResourceNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/repository/AlertsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/repository/ReadingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/readings/src/main/java/ReadingRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/repository/VehicleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/service/AlertsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/service/AlertsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/service/ReadingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/readings/src/main/java/ReadingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/service/ReadingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/readings/src/main/java/ReadingServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/service/VehicleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/service/VehicleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Alert.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Alert.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/AlertRecent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/AlertRecent.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Footer.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Header.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Reading.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Reading.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/Vehicle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Vehicle.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/Driving-Car.gif" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/Driving-Car.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/android-chrome-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/android-chrome-512x512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/moving-car.gif" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/moving-car.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/style/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/style/table.css" afterDir="false" />
-    </list>
+    <list default="true" id="91d37bc3-9098-4b6a-a5cc-efdd93dd6769" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -154,17 +74,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/components/alerts/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -250,46 +160,6 @@
             <path>
               <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="fleet-tracker-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="fleet-tracker-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="fleet-tracker-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="fleet-tracker-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="fleet-tracker-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="trucker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -302,35 +172,7 @@
               <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="alerts" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="alerts" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="alerts" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="alerts" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="readings" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -348,7 +190,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../movie-fun-modernization" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -440,7 +282,7 @@
       <updated>1560359765387</updated>
       <workItem from="1560693537446" duration="2330000" />
       <workItem from="1560696330914" duration="1170000" />
-      <workItem from="1560697776481" duration="8466000" />
+      <workItem from="1560697776481" duration="8931000" />
     </task>
     <task id="LOCAL-00001" summary="Modified Gradle file for Fleet-Tracker">
       <created>1560718844918</created>
@@ -456,17 +298,37 @@
       <option name="project" value="LOCAL" />
       <updated>1560718892833</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created Gradle file for Alerts component.">
+      <created>1560719126610</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560719126610</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created Gradle file for Readings component.">
+      <created>1560719140884</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560719140884</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Refactored code and created components.">
+      <created>1560719189565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560719189565</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11966000" />
+    <option name="totallyTimeSpent" value="12431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30121458" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30121458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -485,7 +347,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19971672" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.6589698" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.3285968" />
@@ -515,9 +377,15 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="Modified Gradle file for Fleet-Tracker" />
     <MESSAGE value="Created Gradle file for Vehicle component." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Gradle file for Vehicle component." />
+    <MESSAGE value="Created Gradle file for Alerts component." />
+    <MESSAGE value="Created Gradle file for Readings component." />
+    <MESSAGE value="Refactored code and created components." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored code and created components." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
