@@ -3,3 +3,10 @@
  */
 
 rootProject.name = 'trucker-api'
+
+include "applications:fleet-tracker-app"
+
+include "components:alerts"
+include "components:readings"
+include "components:vehicles"
+

@@ -1,11 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91d37bc3-9098-4b6a-a5cc-efdd93dd6769" name="Default Changelist" comment="" />
+    <list default="true" id="91d37bc3-9098-4b6a-a5cc-efdd93dd6769" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/fleet-tracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/alerts/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/readings/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/bootWar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/bootWar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/controller/AlertsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/controller/ReadingsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/controller/VehicleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/entity/Alerts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/entity/Readings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/entity/Tires.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/entity/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/exception/BadRequestException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/exception/ResourceNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/repository/AlertsRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/repository/ReadingRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/repository/VehicleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/service/AlertsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/service/AlertsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/service/ReadingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/service/ReadingServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/service/VehicleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/trucker/service/VehicleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/controller/AlertsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/controller/ReadingsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/readings/src/main/java/ReadingsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/controller/VehicleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/entity/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/entity/Readings.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/readings/src/main/java/Readings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/entity/Tires.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/entity/Tires.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/entity/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/exception/BadRequestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/exception/BadRequestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/exception/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/repository/AlertsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/repository/ReadingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/readings/src/main/java/ReadingRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/repository/VehicleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/service/AlertsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/service/AlertsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/service/ReadingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/readings/src/main/java/ReadingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/service/ReadingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/readings/src/main/java/ReadingServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/service/VehicleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trucker/service/VehicleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Alert.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Alert.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/AlertRecent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/AlertRecent.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Reading.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Reading.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Vehicle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Vehicle.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/Driving-Car.gif" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/Driving-Car.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/android-chrome-512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/moving-car.gif" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/moving-car.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/images/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/style/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/style/table.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/applications/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/build/" />
+    <ignored path="$PROJECT_DIR$/applications/fleet-tracker-app/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/fleet-tracker-app/build/" />
+    <ignored path="$PROJECT_DIR$/components/.gradle/" />
+    <ignored path="$PROJECT_DIR$/components/build/" />
+    <ignored path="$PROJECT_DIR$/components/alerts/.gradle/" />
+    <ignored path="$PROJECT_DIR$/components/alerts/build/" />
+    <ignored path="$PROJECT_DIR$/co/.gradle/" />
+    <ignored path="$PROJECT_DIR$/co/build/" />
+    <ignored path="$PROJECT_DIR$/components/readings/.gradle/" />
+    <ignored path="$PROJECT_DIR$/components/readings/build/" />
+    <ignored path="$PROJECT_DIR$/components/vehicles/.gradle/" />
+    <ignored path="$PROJECT_DIR$/components/vehicles/build/" />
+    <ignored path="$PROJECT_DIR$/applications/fleet-tracker-app/out/" />
+    <ignored path="$PROJECT_DIR$/components/vehicles/out/" />
+    <ignored path="$PROJECT_DIR$/components/readings/out/" />
+    <ignored path="$PROJECT_DIR$/components/alerts/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,71 +121,45 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="trucker-api" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="trucker-api" type="f1a62948:ProjectNode" />
+                <item name="applications" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="trucker-api" type="f1a62948:ProjectNode" />
+                <item name="applications" type="2d1252cf:ModuleNode" />
+                <item name="fleet-tracker-app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="trucker-api" type="f1a62948:ProjectNode" />
+                <item name="applications" type="2d1252cf:ModuleNode" />
+                <item name="fleet-tracker-app" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/controller/AlertsController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="66" column="27" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/components/alerts/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="83" lean-forward="true" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/controller/VehicleController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/controller/ReadingsController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1113">
-              <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="396">
+              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -120,8 +192,24 @@
         <option value="$PROJECT_DIR$/src/main/java/com/trucker/controller/VehicleController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/trucker/controller/AlertsController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/trucker/Application.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/applications/fleet-tracker-app/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleController.java" />
+        <option value="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleRepository.java" />
+        <option value="$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/components/vehicles/build.gradle" />
+        <option value="$PROJECT_DIR$/components/readings/src/main/java/ReadingRepository.java" />
+        <option value="$PROJECT_DIR$/components/readings/src/main/java/Readings.java" />
+        <option value="$PROJECT_DIR$/components/readings/src/main/java/ReadingsController.java" />
+        <option value="$PROJECT_DIR$/components/readings/build.gradle" />
+        <option value="$PROJECT_DIR$/components/readings/src/main/java/ReadingServiceImpl.java" />
+        <option value="$PROJECT_DIR$/components/alerts/build.gradle" />
+        <option value="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsController.java" />
+        <option value="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsRepository.java" />
+        <option value="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsService.java" />
+        <option value="$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -134,9 +222,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="876" />
-    <option name="y" value="19" />
+    <option name="y" value="18" />
     <option name="width" value="1050" />
-    <option name="height" value="971" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -146,45 +234,54 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-management" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-management" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-management" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fleet-tracker-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-management" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fleet-tracker-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-management" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fleet-tracker-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-management" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fleet-tracker-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-management" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fleet-tracker-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -192,41 +289,76 @@
             </path>
             <path>
               <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-management" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="trucker" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fleet-management" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="alerts" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="alerts" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="alerts" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="alerts" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trucker-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="alerts" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alerts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../movie-fun-modernization" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\shijna.surendran\workspace\trucker-fleet-management\src\main\webapp" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kshitij.chhatwani\IdeaProjects\fleet-tracker\applications\fleet-tracker-app" />
       <recent name="C:\Users\shijna.surendran\workspace\trucker-fleet-management\src\main\webapp\images" />
       <recent name="C:\Users\shijna.surendran\workspace\trucker-fleet-management\src\main\webapp" />
       <recent name="C:\Users\shijna.surendran\workspace\trucker-fleet-management\src\main\webapp\style" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shijna.surendran\workspace\trucker-fleet-management\src\main\webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,10 +373,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Application (1)">
+  <component name="RunManager" selected="Application.Application (2)">
     <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.trucker.Application" />
       <module name="trucker-api.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trucker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.trucker.Application" />
+      <module name="trucker-api.applications.fleet-tracker-app.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.trucker.*" />
@@ -268,8 +413,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="trucker-api.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trucker.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application (2)" />
         <item itemvalue="Application.Application (1)" />
         <item itemvalue="Application.Application" />
       </list>
@@ -285,16 +438,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560359765387</updated>
+      <workItem from="1560693537446" duration="2330000" />
+      <workItem from="1560696330914" duration="1170000" />
+      <workItem from="1560697776481" duration="8466000" />
     </task>
+    <task id="LOCAL-00001" summary="Modified Gradle file for Fleet-Tracker">
+      <created>1560718844918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560718844918</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created Gradle file for Vehicle component.">
+      <created>1560718892833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560718892833</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project Explorer" />
-      <window_info id="Job Explorer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2866397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30121458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -302,7 +474,9 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Console" />
+      <window_info id="Project Explorer" order="8" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info id="Web" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3676732" />
@@ -312,9 +486,14 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.19971672" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.3285968" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -323,11 +502,22 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Gradle" order="8" />
+      <window_info anchor="right" id="Gradle" order="8" weight="0.32955465" />
+      <window_info anchor="right" id="Key Promoter X" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modified Gradle file for Fleet-Tracker" />
+    <MESSAGE value="Created Gradle file for Vehicle component." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Gradle file for Vehicle component." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -345,49 +535,21 @@
     <entry file="file://$PROJECT_DIR$/.idea/.name">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/exception/BadRequestException.java">
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/exception/BadRequestException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/exception/ResourceNotFoundException.java">
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/exception/ResourceNotFoundException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/repository/AlertsRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/repository/ReadingRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/service/VehicleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/service/VehicleServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/SwaggerConfig.java">
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
@@ -395,22 +557,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/application.properties" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/service/ReadingService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/service/AlertsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/MANIFEST.MF" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/entity/Tires.java">
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/entity/Tires.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="55" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="55" />
@@ -421,118 +569,202 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/VehicleByVin.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/service/ReadingServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1452">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/App.js" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/style/table.css" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/Header.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/Footer.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/Vehicle.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/Reading.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/entity/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="11" selection-start-line="11" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="e#1095#1096#0" expanded="true" />
-            <element signature="e#1127#1128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/style/table.css" />
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Header.jsp" />
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Footer.jsp" />
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Vehicle.jsp" />
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Reading.jsp" />
     <entry file="file://$PROJECT_DIR$/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/entity/Readings.java">
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/Alert.jsp" />
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/webapp/AlertRecent.jsp" />
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="8" selection-start-line="8" selection-end-line="26" selection-end-column="1" />
+          <caret line="6" column="83" lean-forward="true" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/entity/Alerts.java">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="53" column="46" lean-forward="true" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/repository/VehicleRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/Alert.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/AlertRecent.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/service/AlertsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2040#2041#0" expanded="true" />
-            <element signature="e#2105#2106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/controller/VehicleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/controller/ReadingsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1113">
-          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/controller/AlertsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="66" column="27" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/trucker/Application.java">
+    <entry file="file://$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/fleet-tracker-app/src/main/java/com/trucker/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="83" lean-forward="true" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+        <state relative-caret-position="-675">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/vehicles/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/readings/src/main/java/ReadingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/readings/src/main/java/ReadingRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/readings/src/main/java/Readings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/readings/src/main/java/ReadingsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/vehicles/src/main/java/com/trucker/vehicles/VehicleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/readings/src/main/java/ReadingServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/Alerts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/readings/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="33" column="44" selection-start-line="32" selection-start-column="4" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/alerts/src/main/java/com/trucker/alerts/AlertsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/alerts/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
         </state>
       </provider>
     </entry>
