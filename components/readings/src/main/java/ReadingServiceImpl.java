@@ -1,7 +1,7 @@
-import com.trucker.entity.Alerts;
+import com.trucker.alerts.Alerts;
+import com.trucker.alerts.AlertsService;
 import com.trucker.entity.Tires;
 import com.trucker.exception.BadRequestException;
-import com.trucker.service.AlertsService;
 import com.trucker.vehicles.Vehicle;
 import com.trucker.vehicles.VehicleService;
 import org.springframework.beans.factory.annotation.Autowired;

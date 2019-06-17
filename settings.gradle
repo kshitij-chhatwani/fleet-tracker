@@ -9,4 +9,4 @@ include "applications:fleet-tracker-app"
 include "components:alerts"
 include "components:readings"
 include "components:vehicles"
-
+include "components:fleet-tracker-api"

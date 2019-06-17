@@ -32,4 +32,5 @@ repositories {
 dependencies{
     compile project (":applications:fleet-tracker-app")
     compile project (":components:vehicles")
+    compile project (":components:alerts")
 }

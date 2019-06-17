@@ -1,6 +1,5 @@
 package com.trucker.vehicles;
 
-import com.trucker.entity.Vehicle;
 
 import java.util.List;
 
